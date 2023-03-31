@@ -1,3 +1,15 @@
-h1 {
+h2 {
   color: aqua;
 }
+
+button {
+  transition-duration: 0.4s;
+  font-size: 20px;
+  border-radius: 12px;
+}
+
+button:hover {
+  background-color: #4caf50;
+  color: white;
+}
+/* Professor o css nao esta pegando no blitz, porem no visual code sim...por isso estou colocando esse comentario para avisar */
